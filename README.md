@@ -9,9 +9,9 @@ It will try to answer of these questions :
 
 ## 1. Plan
 
-__ 1. Plan v1 __
+** 1. Plan v1 **
 
-__ 2. What is Grunt? __
+** 2. What is Grunt? **
 
    2.1 Task Runner v2.1
 
@@ -19,13 +19,13 @@ __ 2. What is Grunt? __
 
    2.3 Why Grunt? v2.3
 
-__ 3. What is Node? __
+** 3. What is Node? **
 
    3.1 Server Side Javascript v3.1
 
    3.2 Installation and Grunt module installation v3.2
 
-__ 4. Use case __
+** 4. Use case **
 
    4.1 I want to concatenate my files v4.1
 
