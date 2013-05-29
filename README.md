@@ -34,3 +34,9 @@ It will try to answer of these questions :
    4.3 I want to watch some file type and when there is changes launch a compilation v4.3
 
    4.4 I want to have different compilation for each environment, dev, qa, prod v4.4
+
+
+
+## 2. What is Grunt
+
+### 2.1 A Task Runner - [Grunt Website](http://gruntjs.com)
