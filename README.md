@@ -17,3 +17,5 @@
  * Configure the concatenate task in the GruntFile.js - see [Github](https://github.com/gruntjs/grunt-contrib-concat)
 
  * And launch the task `grunt`
+
+ * Add the new link `js/built.js` to the index.html
