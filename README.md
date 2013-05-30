@@ -2,12 +2,9 @@
 
 ## 4. Use Case
 
-### 4.1 I want to concatenate my files  (see code in project)
+### I want to compile my SCSS files ( see code in project )
 
- * node linux Ubuntu `apt-get install node` else see website node
+ * Start to the solution 4.1
 
- * install grunt `sudo npm install -g grunt-cli`
+ * Install the node module grunt compass `npm install grunt-contrib-compass --save-dev`
 
- * Create a package.json
-
- * Create a config file GruntFile.js
