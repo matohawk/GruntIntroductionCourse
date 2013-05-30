@@ -1,7 +1,7 @@
 ![msysgit](http://gruntjs.com/img/grunt-logo.png)
 
 ----
-#GruntIntroductionCourse
+#Grunt Introduction Course
 
 A small introduction to Grunt, each tag correspond to a level
 
