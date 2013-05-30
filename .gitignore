@@ -1,2 +1,4 @@
 .idea
 .sass-cache
+.bin
+node_moddules
