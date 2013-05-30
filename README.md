@@ -1,6 +1,3 @@
-![msysgit](http://gruntjs.com/img/grunt-logo.png)
-
-----
 #Grunt Introduction Course
 
 #### 2.1.1 First step in web project (see code in project)
