@@ -41,18 +41,4 @@ It will try to answer of these questions :
 
 ### 2.1 A Task Runner - [Grunt Website](http://gruntjs.com)
 
-### 2.2 Oriented Front-end web
-![msysgit](http://gruntjs.com/img/logo-coffeescript.jpg)
-![msysgit](http://gruntjs.com/img/logo-handlebars.jpg)
-![msysgit](http://gruntjs.com/img/logo-jade.jpg)
-![msysgit](http://gruntjs.com/img/logo-jshint.jpg)
-![msysgit](http://gruntjs.com/img/logo-less.jpg)
-![msysgit](http://gruntjs.com/img/logo-requirejs.jpg)
-![msysgit](http://gruntjs.com/img/logo-sass.jpg)
-![msysgit](http://gruntjs.com/img/logo-sylus.jpg)
-
-### 2.3 Why Grunt - [Grunt Website](http://gruntjs.com)
-
-## 3. What is Node
-
-### 3.1 Server Side Javascript - [Node Website](http://nodejs.org)
+#### 2.1.1 First step in web project (see project)
