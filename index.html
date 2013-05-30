@@ -2,10 +2,12 @@
 <html>
 <head>
     <title>My old project</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
-    <h1 class="my-main-title">This is an old web project</h1>
-<script src="myOldProject.js"></script>
+<body ng-app="app">
+    <h1 class="my-main-title" ng-controller="mainController"><span ng-style="myStyle">{{mainTitle}}</span></h1>
+    <script src="./js/lib/angular.min.js"></script>
+    <script src="./js/app.js"></script>
+    <script src="./js/controllers/mainController.js"></script>
 </body>
 </html>
