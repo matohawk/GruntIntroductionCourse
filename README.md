@@ -2,12 +2,20 @@
 
 ## 4. Use Case
 
-### I want to compile my SCSS files ( see code in project )
+### 4.3 I want to watch some file type and when there is changes launch a compilation ( see code in project )
 
- * Start to the solution 4.1
+ * Start to the solution 4.2
 
- * Install the node module grunt compass `npm install grunt-contrib-compass --save-dev`
+ * Install the node module grunt compass `npm install grunt-contrib-watch --save-dev`
 
- * Configure the compass task in the GruntFile.js - see [Github](https://github.com/gruntjs/grunt-contrib-compass)
+ * Configure the compass task in the GruntFile.js - see [Github](https://github.com/gruntjs/grunt-contrib-watch)
 
  * And launch the task `grunt`
+
+
+
+
+
+
+
+
