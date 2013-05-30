@@ -14,6 +14,10 @@ It will try to answer of these questions :
 **2. What is Grunt?**
 
    2.1 Task Runner [v2.1](https://github.com/matohawk/GruntIntroductionCourse/tree/v2.1)
+      
+      2.1.1 First step in web project [v2.1.1](https://github.com/matohawk/GruntIntroductionCourse/tree/v2.1.1)
+      
+      2.1.2 Today complex web project [v2.1.2](https://github.com/matohawk/GruntIntroductionCourse/tree/v2.1.2)
 
    2.2 Oriented Front-end web [v2.2](https://github.com/matohawk/GruntIntroductionCourse/tree/v2.2)
 
