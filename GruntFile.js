@@ -16,12 +16,17 @@ module.exports = function(grunt) {
                     sassDir: 'css'
                 }
             }
+        },
+        watch: {
+            files: ['css/lib/*.scss'],
+            tasks: ['compass:dist']
         }
     });
 
     // Load the plugin that provides the "concatenate" task.
     grunt.loadNpmTasks('grunt-contrib-concat');
     grunt.loadNpmTasks('grunt-contrib-compass');
+    grunt.loadNpmTasks('grunt-contrib-watch');
 
     // Default task(s).
     grunt.registerTask('default', ['concat:dist', 'compass:dist']);

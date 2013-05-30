@@ -480,7 +480,7 @@ a {
 
 /* line 1, lib/_components.scss */
 .my-main-title {
-  color: red;
+  color: blue;
   font-size: 36px;
   line-height: 40px;
   text-decoration: underline;
