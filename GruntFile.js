@@ -7,10 +7,21 @@ module.exports = function(grunt) {
             dist: {
                 src: ['js/lib/angular.min.js', 'js/app.js', 'js/controllers/mainController.js'],
                 dest: 'js/built.js'
+            },
+            dev: {
+                src: ['js/lib/angular.min.js', 'js/app.js', 'js/controllers/mainController.js'],
+                dest: 'js/built.js'
             }
         },
         compass: {
             dist: {
+                options: {
+                    cssDir: 'css',
+                    sassDir: 'css',
+                    environment: 'production'
+                }
+            },
+            dev: {
                 options: {
                     cssDir: 'css',
                     sassDir: 'css'
@@ -30,5 +41,8 @@ module.exports = function(grunt) {
 
     // Default task(s).
     grunt.registerTask('default', ['concat:dist', 'compass:dist']);
+    grunt.registerTask('dev', ['concat:dev', 'compass:dev']);
+    grunt.registerTask('qa', ['concat:dist', 'compass:dist']);
+    grunt.registerTask('prod', ['concat:dist', 'compass:dist']);
 
 };
