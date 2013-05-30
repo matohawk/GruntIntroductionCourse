@@ -12,3 +12,8 @@
 
  * Create a config file GruntFile.js
 
+ * Install the node module grunt concat `npm install grunt-contrib-concat --save-dev`
+
+ * Configure the concatenate task in the GruntFile.js - see [Github](https://github.com/gruntjs/grunt-contrib-concat)
+
+ * And launch the task `grunt`
