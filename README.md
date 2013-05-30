@@ -52,3 +52,7 @@ It will try to answer of these questions :
 ![msysgit](http://gruntjs.com/img/logo-sylus.jpg)
 
 ### 2.3 Why Grunt - [Grunt Website](http://gruntjs.com)
+
+## 3. What is Node
+
+## 3.1 Server Side Javascript - [Node Website](http://nodejs.org)
