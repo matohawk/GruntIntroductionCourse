@@ -1,9 +1,14 @@
 #Grunt Introduction Course
 
-#### 2.1.2 Today complex web project  (see code in project)
+## 4. Use Case
 
- * Preprocessor Css separate in multiple files (SASS, LESS, STYLUS)
+### 4.1 I want to concatenate my files  (see code in project)
 
- * Preprocessor Js (TypeScript, Dart, Coffee) or/and framework (Backbone, Angular) in multiple files
+ * node linux Ubuntu `apt-get install node` else see website node
 
- * Multiple HTML files or template (Mustache, Handlebar) or/and preprocessor (Haml, Jade)
+ * install grunt `sudo npm install -g grunt-cli`
+
+ * Create a package.json
+
+ * Create a config file GruntFile.js
+
